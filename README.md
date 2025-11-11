@@ -123,10 +123,7 @@ When powered on, the rover performs the following sequence:
 ---
 
 ## 👨‍💻 Author
-**Chengliang Huang**  
-Toronto Metropolitan University  
-*Instructor: Dr. Chengliang Huang, P.Eng.*  
-
+**Samuel Huang**  
 GitHub: [FlosMume](https://github.com/FlosMume)
 
 ---
