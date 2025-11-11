@@ -7,8 +7,6 @@ An autonomous multi-terrain rover powered by **ESP32** and **ESP32-CAM**, integr
 ## 🚀 Overview
 This project combines embedded control, sensor fusion, and computer vision on a compact platform. The rover autonomously navigates using ultrasonic distance sensors and streams live camera footage via a built-in HTTP server hosted on the ESP32-CAM module.
 
-It was developed as a final project for **MTE301 – Programming for Mechatronics (Toronto Metropolitan University, 2025)**.
-
 ---
 
 ## ⚙️ Features
