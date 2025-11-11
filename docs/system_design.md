@@ -135,6 +135,5 @@ The system successfully demonstrates a low-cost, embedded robotics solution comb
 
 ---
 
-**Author:** Chengliang Huang  
-**Institution:** Toronto Metropolitan University  
+**Author:** Samuel Huang   
 **License:** MIT
