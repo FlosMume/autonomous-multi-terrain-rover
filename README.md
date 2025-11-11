@@ -134,3 +134,14 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Keywords:** ESP32, ESP32-CAM, Robotics, Obstacle Avoidance, Live Streaming, Embedded Systems, PWM Motor Control, Arduino.
+
+
+**Revision Patch – Nov 2025**
+ - ✅ Corrected **LED pin** to **GPIO22** (per `app_httpd.cpp`).
+ - ✅ Updated stream URL to `http://<device_ip>/stream` (no fixed port).
+ - ✅ Noted **single ultrasonic sensor** (TRIG = GPIO17, ECHO = GPIO18).
+ - ✅ Confirmed motor driver wiring:
+   - ENA = 16, IN1 = 15, IN2 = 7  
+   - ENB = 4, IN3 = 5, IN4 = 6
+ - ✅ Clarified build setting: *Partition Scheme = custom (per `ci.json`)*.
+ - ✅ Removed stray `'/'` in `wall_following_decision.cpp` (compile fix).
